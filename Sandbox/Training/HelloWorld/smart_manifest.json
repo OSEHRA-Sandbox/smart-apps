@@ -8,6 +8,6 @@
     "mode" : "ui",
     "scope" : "record",
 
-    "index" : "https://raw.github.com/OSEHR/smart-apps/master/Sandbox/Training/HelloWorld/index.html"
+    "index" : "https://raw.github.com/OSEHR/smart-apps/master/Sandbox/Training/HelloWorld/index.html",
     "icon" :  "https://raw.github.com/OSEHR/smart-apps/master/Sandbox/Training/HelloWorld/icon.png"
 }
