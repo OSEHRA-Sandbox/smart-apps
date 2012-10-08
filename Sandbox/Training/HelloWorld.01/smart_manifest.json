@@ -1,8 +1,8 @@
 {
-    "name" : "Hellow World!",
+    "name" : "Hellow World 01 !",
     "description" : "Example Teaching App",
     "author" : "Luis Ibanez, OSEHRA",
-    "id" : "hello-world@osehra.org",
+    "id" : "hello-world-01@osehra.org",
     "version" : ".1a",
 
     "mode" : "ui",
